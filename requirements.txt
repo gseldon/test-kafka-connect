@@ -1,0 +1,4 @@
+crc32c==2.3
+kafka-python==2.0.2
+lz4==4.0.1
+python-snappy==0.6.1
